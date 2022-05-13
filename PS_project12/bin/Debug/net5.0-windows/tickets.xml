@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tickets>
+  <ticket>
+    <trainNo>1</trainNo>
+    <originStation>Cluj</originStation>
+    <destinationStation>Bucuresti</destinationStation>
+    <duration>240</duration>
+    <seats>19</seats>
+    <price>20</price>
+    <id>100</id>
+  </ticket>
+</tickets>

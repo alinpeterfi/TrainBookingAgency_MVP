@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "36g3MWcLKfEaXq5u9uRm7yEAns9VybFh3O2TZTna89T33Hwvpr7TfUeyqocgYJVNpLcKqhtgyVob2dBO4wHLpw==",
+  "success": true,
+  "projectFilePath": "D:\\PS\\PS_project12_MVP\\PS_project12\\PS_project12\\PS_project12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alyyc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
